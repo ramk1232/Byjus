@@ -114,7 +114,7 @@ public class RegisterCross {
 	public void afterclass() {
 		Reg = null;
 		bokcls = null;
-
+//
 	}
 	@AfterTest
 	public void afterTest() {
