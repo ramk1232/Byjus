@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="TestWatchVid.Register">
+        <methods>
+          <include name="byju1Bookcls"/>
+          <include name="byjuSideNavItems"/>
+          <include name="afterclass"/>
+          <include name="byjuChossTpk"/>
+          <include name="beforeMethod"/>
+          <include name="byju"/>
+          <include name="byjuprofile"/>
+          <include name="beforeClass"/>
+          <include name="byjuTimSlot"/>
+          <include name="byjuBookedClssText"/>
+          <include name="byjuState"/>
+          <include name="afterMethod"/>
+          <include name="byjuChildNm"/>
+          <include name="byjuEmail"/>
+          <include name="byjubyjuEnterMob"/>
+          <include name="byjuValidMob"/>
+          <include name="byjuOnProfile"/>
+          <include name="byjuRadioBtn"/>
+        </methods>
+      </class> <!-- TestWatchVid.Register -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
